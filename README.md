@@ -1,17 +1,22 @@
-# portfolio-ias
+# Isabella A. Salcedo
 
-Personal portfolio site for **Isabella A. Salcedo** — poet, educator, and oral historian.
+**Poet · Educator · Oral Historian**
 
-A small static site (plain HTML/CSS/JS, no build step) showcasing her works, biography, and CV. Deployed via GitHub Pages on the custom domain [isabellasalcedo.me](https://isabellasalcedo.me).
+Welcome. This is the home of Isabella A. Salcedo's personal portfolio — a place to read her poetry, learn about her work in the classroom and the community, and follow the threads of her oral history practice.
 
-## Running locally
+## Visit the site
 
-Asset and page links use root-absolute paths, so serve from the repo root rather than opening files directly:
+👉 **[isabellasalcedo.me](https://isabellasalcedo.me)**
 
-```bash
-python3 -m http.server 8000
-# then open http://localhost:8000
-```
+## What you'll find
+
+- **Works** — selected poetry and writing.
+- **About** — Isabella's story, influences, and the ideas behind her work.
+- **CV** — her experience as an educator and oral historian.
+
+## Get in touch
+
+For readings, collaborations, teaching inquiries, or oral history projects, please reach out through the contact details on the site.
 
 ---
 
